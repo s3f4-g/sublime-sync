@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ayu",
+		"Djaneiro",
+		"Emmet",
+		"GCC Assembly Listing",
+		"Git",
+		"JavaScript Completions",
+		"Jedi - Python autocompletion",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"Terminus",
+		"Theme - Flatland",
+		"Unicode Character Highlighter",
+		"Unicode Character Insert"
+	]
+}
